@@ -20,9 +20,9 @@
   }
 @media (max-width: 600px) {
   body {
-    height: auto; /* Permite que el contenido crezca más allá de la altura de la pantalla si es necesario */
-    min-height: 100vh; /* Asegura que el body cubra al menos toda la pantalla */
-    overflow-y: auto; /* Permite el desplazamiento vertical si el contenido es mayor */
+    height: 100vh;
+    min-height: 100vh; 
+    overflow-y: auto; 
   }
 }
   
