@@ -17,6 +17,7 @@
     height: 100vh;
     margin: 0;
     overflow: hidden;
+    overflow-x: hidden;
   }
   
   .background-buildings, .foreground-buildings {
