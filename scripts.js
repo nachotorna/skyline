@@ -12,10 +12,3 @@
     document.getElementById('sun-button').style.display = 'none';
   }
 
-function setBodyHeight() {
-  document.body.style.height = window.innerHeight + 'px';
-}
-
-window.addEventListener('resize', setBodyHeight);
-window.addEventListener('load', setBodyHeight);
- 
